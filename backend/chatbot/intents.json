@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "tag": "fees",
+      "keywords": ["fee", "deadline", "payment"],
+      "responses": ["The last date for fee payment is 15th October."]
+    },
+    {
+      "tag": "scholarship",
+      "keywords": ["scholarship", "form", "apply"],
+      "responses": ["Scholarship forms are available on the college website under 'Student Services'."]
+    },
+    {
+      "tag": "timetable",
+      "keywords": ["timetable", "class", "schedule"],
+      "responses": ["The updated timetable has been shared in the Notice section."]
+    }
+  ]
+}
